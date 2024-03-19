@@ -1,7 +1,7 @@
 # weather
 experimental weather simulation and forecasting
 
-### Contributers:
+### Contributors:
   Alfred Schulze
   Lennart Lewandowski
   --> If you are interested in helping contact alfredowitsch on discord.
